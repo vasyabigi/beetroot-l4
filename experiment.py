@@ -10,3 +10,6 @@ print(1 is True)
 a = 5
 a += 1
 print(a)
+
+
+print("Hello World from Vasyl and Stepan!")
